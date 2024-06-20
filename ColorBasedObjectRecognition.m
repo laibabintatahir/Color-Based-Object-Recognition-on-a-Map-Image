@@ -14,7 +14,7 @@ hsvImage = rgb2hsv(image);
 
 % Define a cell array of color thresholds and labels
 colors = {
-    'North America', 0.25, 0.4, 0.2, 1.0, 0.2, 1.0;   % Green 
+    'North America', 0.2, 0.4, 0.2, 1.0, 0.2, 1.0;   % Green 
     'South America', 0.12, 0.18, 0.4, 1.0, 0.4, 1.0;  % Yellow
     'Europe', 0.05, 0.10, 0.4, 1.0, 0.4, 1.0;         % Orange
     'Africa', 0.95, 1.0, 0.4, 1.0, 0.4, 1.0;          % Red 
