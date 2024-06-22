@@ -8,5 +8,5 @@ Color space conversion (e.g., RGB to HSV), thresholding, morphological operation
 2.	Apply color thresholding to segment objects.
 3.	Use morphological operations to refine the segmentation.
 4.	Display and label the segmented objects.
-🔧 Development
+## 🔧 Development
 The files of the assignment were created with MATLAB R2013b.
